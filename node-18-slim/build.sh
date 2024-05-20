@@ -1,0 +1,1 @@
+docker build -t caco0516/nodejs-puppeter:node18-slim .

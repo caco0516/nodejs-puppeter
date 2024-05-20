@@ -1,0 +1,1 @@
+docker push caco0516/nodejs-puppeter:node18-slim
